@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="51.1822753" lon="-0.4362667">
+		<name>Barry knows best start</name>
+		<sym>Flag, Green</sym>
+	</wpt>
+	<wpt lat="51.1825712" lon="-0.438627">
+		<name>Barry knows best mid</name>
+	</wpt>
+	<wpt lat="51.1853621" lon="-0.4438627">
+		<name>Barry knows best end</name>
+	</wpt>
+	<wpt lat="51.1825443" lon="-0.4193473">
+		<name>Telegraph row start</name>
+	</wpt>
+	<wpt lat="51.1931152" lon="-0.4209781">
+		<name>Telegraph row end</name>
+	</wpt>
+	<wpt lat="51.1765584" lon="-0.4225981">
+		<name>Yoghurt pots start</name>
+	</wpt>
+	<wpt lat="51.1807352" lon="-0.4201305">
+		<name>Yoghurt pots end</name>
+	</wpt>
+	<wpt lat="51.173841" lon="-0.4498172">
+		<name>Curly wurly start</name>
+	</wpt>
+	<wpt lat="51.179881" lon="-0.4518342">
+		<name>curly wurly end</name>
+	</wpt>
+	<wpt lat="51.1741639" lon="-0.4492593">
+		<name>T0 start</name>
+	</wpt>
+	<wpt lat="51.1764643" lon="-0.4485297">
+		<name>T1 start</name>
+	</wpt>
+	<wpt lat="51.1851806" lon="-0.4484439">
+		<name>T2- t4</name>
+	</wpt>
+	<wpt lat="51.1890405" lon="-0.4506755">
+		<name>T4 finish</name>
+	</wpt>
+	<wpt lat="51.1816969" lon="-0.4537868">
+		<name>Supernova start</name>
+	</wpt>
+	<wpt lat="51.1862565" lon="-0.450418">
+		<name>Supernova mid</name>
+	</wpt>
+	<wpt lat="51.1888925" lon="-0.4506755">
+		<name>Supernova end</name>
+	</wpt>
+	<wpt lat="51.1767199" lon="-0.4500532">
+		<name>Proper bo start</name>
+	</wpt>
+	<wpt lat="51.1804863" lon="-0.4499459">
+		<name>Proper Bo end</name>
+	</wpt>
+	<wpt lat="51.1702758" lon="-0.4528856">
+		<name>El capitan start</name>
+	</wpt>
+	<wpt lat="51.176249" lon="-0.4520702">
+		<name>El capitan end</name>
+	</wpt>
+	<wpt lat="51.1757782" lon="-0.4572845">
+		<name>Otters start</name>
+	</wpt>
+	<wpt lat="51.1796524" lon="-0.4547524">
+		<name>Otters end</name>
+	</wpt>
+	<wpt lat="51.1722266" lon="-0.4526496">
+		<name>Root of all evil start</name>
+	</wpt>
+	<wpt lat="51.1757782" lon="-0.451684">
+		<name>Root of all evil end</name>
+	</wpt>
+	<wpt lat="51.1822753" lon="-0.4465771">
+		<name>Spiritualized start</name>
+	</wpt>
+	<wpt lat="51.187857" lon="-0.4480147">
+		<name>Spiratulized end</name>
+	</wpt>
+	<wpt lat="51.1825309" lon="-0.4191756">
+		<name>Secret Squirral Start</name>
+	</wpt>
+	<wpt lat="51.1868886" lon="-0.4185534">
+		<name>Secret Squirral end</name>
+	</wpt>
+	<wpt lat="51.1794506" lon="-0.4305696">
+		<name>I should coco start</name>
+	</wpt>
+	<wpt lat="51.1877763" lon="-0.4353762">
+		<name>I should coco end</name>
+	</wpt>
+	<wpt lat="51.1880856" lon="-0.4338527">
+		<name>Van gogh missin ear start</name>
+	</wpt>
+	<wpt lat="51.1907753" lon="-0.438509">
+		<name>Van gogh end</name>
+	</wpt>
+	<wpt lat="51.1855168" lon="-0.4379511">
+		<name>Son of coco start</name>
+	</wpt>
+	<wpt lat="51.1934649" lon="-0.4406333">
+		<name>Son of coco end</name>
+	</wpt>
+	<wpt lat="51.1916461" lon="-0.4463464">
+		<name>peaslake village stores</name>
+		<sym>Residence</sym>
+	</wpt>
+</gpx>
