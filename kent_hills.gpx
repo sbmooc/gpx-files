@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="51.2487541" lon="0.2286315">
+		<name>Carters HIll</name>
+	</wpt>
+	<wpt lat="51.2951222" lon="0.5390596">
+		<name>Boxley hill</name>
+	</wpt>
+	<wpt lat="51.3192945" lon="0.5117226">
+		<name>Warren Road</name>
+	</wpt>
+	<wpt lat="51.3539478" lon="0.397439">
+		<name>Lockyers Hill</name>
+	</wpt>
+	<wpt lat="51.2226566" lon="0.1033723">
+		<name>Toys</name>
+	</wpt>
+	<wpt lat="51.3508723" lon="0.0270367">
+		<name>Downeburg</name>
+	</wpt>
+	<wpt lat="51.3170817" lon="0.3520346">
+		<name>Vigo HIll</name>
+	</wpt>
+	<wpt lat="51.2832863" lon="0.0653172">
+		<name>Westerham Hill</name>
+	</wpt>
+	<wpt lat="51.2920897" lon="0.1042843">
+		<name>Brasted</name>
+	</wpt>
+	<wpt lat="51.2875808" lon="0.0951004">
+		<name>Hogtrough HIll</name>
+	</wpt>
+	<wpt lat="51.2971348" lon="0.1161289">
+		<name>Sundridge</name>
+	</wpt>
+	<wpt lat="51.2314212" lon="0.1477039">
+		<name>Yorks</name>
+	</wpt>
+</gpx>
