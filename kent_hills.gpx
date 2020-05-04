@@ -36,4 +36,7 @@
 	<wpt lat="51.2314212" lon="0.1477039">
 		<name>Yorks</name>
 	</wpt>
+	<wpt lat='51.315227' lon='0.162627'>
+		<name>Old Polhill</name>
+	</wpt>
 </gpx>
