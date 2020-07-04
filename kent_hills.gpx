@@ -15,9 +15,6 @@
 	<wpt lat="51.2226566" lon="0.1033723">
 		<name>Toys</name>
 	</wpt>
-	<wpt lat="51.3508723" lon="0.0270367">
-		<name>Downeburg</name>
-	</wpt>
 	<wpt lat="51.3170817" lon="0.3520346">
 		<name>Vigo HIll</name>
 	</wpt>
@@ -38,5 +35,11 @@
 	</wpt>
 	<wpt lat='51.315227' lon='0.162627'>
 		<name>Old Polhill</name>
+	</wpt>
+	<wpt lat='51.3237977' lon='0.0674554'>
+		<name>Downe Road</name>
+	</wpt>
+	<wpt lat='51.235585' lon='0.169444'>
+		<name>Bayley's Hill</name>
 	</wpt>
 </gpx>
